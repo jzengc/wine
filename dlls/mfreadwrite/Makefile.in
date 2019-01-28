@@ -1,4 +1,5 @@
 MODULE    = mfreadwrite.dll
+IMPORTS = mfplat
 
 C_SRCS = \
 	main.c
